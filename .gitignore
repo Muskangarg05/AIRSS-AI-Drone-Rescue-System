@@ -1,0 +1,6 @@
+# .gitignore
+.env
+screenshots/
+logs/
+*.pt
+__pycache__/
