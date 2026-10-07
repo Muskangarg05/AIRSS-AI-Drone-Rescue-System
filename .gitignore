@@ -11,3 +11,4 @@ main_v2.py
 shared_state.py
 config.py
 alert.py
+dashboard.py
