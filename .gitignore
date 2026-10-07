@@ -4,3 +4,10 @@ screenshots/
 logs/
 *.pt
 __pycache__/
+detector.py
+gps_mapper.py
+main.py
+main_v2.py
+shared_state.py
+config.py
+alert.py
